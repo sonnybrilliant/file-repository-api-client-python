@@ -1,0 +1,8 @@
+responses
+flake8
+isort
+black
+python-dotenv
+wheel
+twine
+-r requirements.txt
