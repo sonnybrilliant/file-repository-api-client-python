@@ -1,4 +1,3 @@
-responses
 flake8
 isort
 black
